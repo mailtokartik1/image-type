@@ -12,7 +12,6 @@ const imageExts = new Set([
 	'bmp',
 	'jxr',
 	'psd',
-	'ico',
 	'bpg',
 	'jp2',
 	'jpm',
